@@ -1,6 +1,6 @@
-# my-homepage
+# vuecli-store
 
-> Personal home page built with vue. 
+> use npm and vue-cli. 
 
 ## Build Setup
 
