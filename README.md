@@ -1,6 +1,6 @@
-# vuecli-store
+# vuecli-project
 
-> use npm and vue-cli. 
+> use yarn and vue-cli. 
 
 ## Build Setup
 
