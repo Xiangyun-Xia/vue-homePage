@@ -1,0 +1,31 @@
+{
+  "extends": "tslint-config-standard",
+  "globals": {
+    "require": true
+  }
+}
+
+// {
+//   "defaultSeverity": "error",
+//   "extends": "tslint:recommended",// recommended
+//   "jsRules": {},
+//   "rules": {
+//     "quotemark": [true, "single", "jsx-double"],
+//     "semicolon": [true, "never"],
+//     "object-literal-sort-keys": false,
+//     "trailing-comma": [true, {
+//       "multiline": "never",
+//       "singleline": "never"
+//     }],
+//     "max-line-length": [true, {
+//       "limit": 120,
+//       "ignore-pattern": "^import |^export {(.*?)}"
+//     }],
+//     "no-console": [false, "log", "error"],
+//     "space-before-function-paren": [true, "always"],
+//     "no-consecutive-blank-lines": false,
+//     "prefer-for-of": false,
+//     "no-shadowed-variable": [false, {}]
+//   },
+//   "rulesDirectory": []
+// }
