@@ -32,12 +32,12 @@ const config: IConfig = {
 switch (process.env.DEPLOY_ENV) {
   case 'dev':
     {
-      config.env.API.ORIGINS.home = '"http://www.xiaxiangyun.com"'
+      config.env.API.ORIGINS.home = '"http://www.baidu.com"'
     }
     break
   default:
     {
-      config.env.API.ORIGINS.home = '"http://www.xiaxiangyun.com"'
+      config.env.API.ORIGINS.home = '"http://www.baidu.com"'
     }
     break
 }

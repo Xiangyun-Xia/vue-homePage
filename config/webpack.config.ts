@@ -63,7 +63,7 @@ const config: webpack.Configuration = {
     historyApiFallback: true,
     headers: {},
     host: '0.0.0.0',
-    port: 1019
+    port: 8102
   }
 }
 

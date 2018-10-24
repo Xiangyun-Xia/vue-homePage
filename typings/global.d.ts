@@ -1,8 +1,8 @@
 declare module "*.json"
 
-declare module 'iview'
+// declare module 'iview'
 
-declare module 'vue-cookie'
+// declare module 'vue-cookie'
 
 declare module '*.vue' {
   import Vue from 'vue'
